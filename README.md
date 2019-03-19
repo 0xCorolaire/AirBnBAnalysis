@@ -1,5 +1,5 @@
 # PythonForScience
-Courses on Python for science followed at UTC
+Courses on Python for science followed at UTC ( API )
 
 
 The datas where picked here : http://insideairbnb.com/get-the-data.html
