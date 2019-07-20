@@ -9,7 +9,7 @@ Our project is composed of 2 main parts :
     - Analysis with jupyter notebook
     - Presentation of the result with a flask application in python
 
-## Sheets
+## Sheets 
 
 You can find cheat sheets on the Python_Sheets folder. These are on several library of python such as matplotlib, pandas, numpy and so on
 
